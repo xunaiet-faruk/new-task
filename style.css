@@ -1,0 +1,39 @@
+.nav-container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    }
+    
+    .nav-heading{
+    
+    font-size: 2rem;
+    margin-left: 25px;
+    font-weight: bolder;
+    
+    }
+    .nav-link > ul{
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    .nav-link li{
+    
+    list-style-type: none;
+    
+    }
+    
+    .nav-link, a, img{
+    
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 1.2rem;
+    color:black;
+    font-weight: 600;
+    }
+    
